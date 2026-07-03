@@ -4,25 +4,27 @@
 
 ### AI Engineer • Machine Learning Engineer • Data Scientist
 
+Building AI-powered applications with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and modern AI engineering practices.
+
 <p>
-Building intelligent AI systems with Machine Learning, Large Language Models, Agentic AI and Production-Ready Applications.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Developer;Building+Production+AI+Applications;Always+Learning+Always+Building" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Developer;Agentic+AI+Developer;Building+Production+AI+Applications" />
+<p>
 
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/siva-selvam03/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sivaaselvam03@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/>
+<a href="https://github.com/sivaaselvam03-glitch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
@@ -30,59 +32,71 @@ Building intelligent AI systems with Machine Learning, Large Language Models, Ag
 
 # About Me
 
-I am an Information Technology undergraduate with a strong interest in Artificial Intelligence, Machine Learning, Data Science and Large Language Models.
+I am an Information Technology undergraduate with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Large Language Models.
 
-My goal is to build scalable AI applications capable of solving real-world problems through intelligent automation, advanced analytics and modern AI architectures.
+I enjoy designing intelligent software that combines machine learning, scalable backend systems, and modern AI frameworks to solve real-world problems.
 
-Currently learning and building production-ready systems focused on Agentic AI, Retrieval-Augmented Generation, LLMOps and MLOps.
+My current learning focuses on Agentic AI, Retrieval-Augmented Generation (RAG), LLMOps, MLOps, and production-ready AI application development.
 
 ---
 
-# Technical Expertise
+# Technical Skills
 
-### Programming Languages
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
 </p>
 
-### Machine Learning
+---
 
+## Artificial Intelligence & Machine Learning
+
+- Machine Learning
+- Deep Learning
 - Scikit-Learn
 - TensorFlow
 - PyTorch
-- XGBoost
 - Pandas
 - NumPy
 - Matplotlib
 - OpenCV
+- XGBoost
 - Prophet
 
-### Large Language Models
+---
 
+## Generative AI & LLMs
+
+- Prompt Engineering
 - LangChain
 - LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Vector Databases
 - FAISS
 - ChromaDB
-- DSPy
 - Ollama
-- Prompt Engineering
-- Retrieval-Augmented Generation
-- Agentic AI
 
-### Backend Development
+---
+
+## Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react"/>
 </p>
 
-### Database
+---
+
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 </p>
 
-### Tools
+---
+
+## Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
@@ -96,13 +110,14 @@ Power BI • Jupyter Notebook • Google Colab
 
 ## ML Data Observability System
 
-Enterprise-grade data quality monitoring platform featuring:
+A data quality monitoring platform capable of:
 
-- Automated data quality validation
-- Data drift detection
-- Anomaly detection
-- Power BI dashboard
-- Scheduled monitoring pipeline
+- Data Quality Monitoring
+- Data Drift Detection
+- Anomaly Detection
+- Automated Reporting
+- Power BI Dashboard
+- Scheduled Monitoring
 
 **Technology**
 
@@ -112,29 +127,29 @@ Python • MySQL • Isolation Forest • Prophet • Power BI
 
 ## Advanced RAG System
 
-Retrieval-Augmented Generation platform supporting:
+Production-ready Retrieval-Augmented Generation system supporting:
 
-- Multi-document ingestion
-- Semantic search
-- Vector database
-- Citation generation
-- LLM integration
+- Semantic Search
+- Document Retrieval
+- Citation Generation
+- Vector Search
+- LLM Integration
 
 **Technology**
 
-Python • LangChain • FAISS • Sentence Transformers • Groq
+Python • LangChain • FAISS • Sentence Transformers
 
 ---
 
 ## AI Resume Screening Platform
 
-AI-powered recruitment assistant capable of:
+AI-powered ATS platform featuring:
 
-- ATS resume scoring
-- Candidate ranking
-- Skill extraction
-- Resume parsing
-- AI-based evaluation
+- Resume Parsing
+- Candidate Ranking
+- Skill Matching
+- Resume Evaluation
+- Recruiter Dashboard
 
 **Technology**
 
@@ -144,7 +159,7 @@ React • TypeScript • Claude API
 
 ## Crop Recommendation System
 
-Machine Learning application that recommends profitable crops based on soil and weather conditions.
+Machine Learning application for intelligent crop prediction using environmental and soil features.
 
 **Technology**
 
@@ -155,23 +170,22 @@ Python • Random Forest • Streamlit
 # Current Learning
 
 - Agentic AI
-- Advanced Retrieval-Augmented Generation
 - Multi-Agent Systems
+- Advanced RAG
 - LLMOps
 - MLOps
 - Azure AI
 - Deep Learning
-- AI Infrastructure
 
 ---
 
-# GitHub Analytics
+# GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivaaselvam03-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaaselvam03-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -181,7 +195,7 @@ Python • Random Forest • Streamlit
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaaselvam03-glitch&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -191,7 +205,7 @@ Python • Random Forest • Streamlit
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaaselvam03-glitch&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -201,7 +215,7 @@ Python • Random Forest • Streamlit
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7&row=1&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sivaaselvam03-glitch&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -211,11 +225,11 @@ Python • Random Forest • Streamlit
 
 | Category | Technologies |
 |-----------|-------------|
-| Operating System | Windows |
 | IDE | VS Code, Jupyter Notebook |
-| AI Frameworks | LangChain, LangGraph |
-| Machine Learning | Scikit-Learn, TensorFlow, PyTorch |
-| Databases | MySQL, MongoDB, SQLite |
+| Languages | Python, Java, SQL, JavaScript |
+| AI Frameworks | LangChain, LangGraph, TensorFlow, PyTorch |
+| Machine Learning | Scikit-Learn, Pandas, NumPy |
+| Database | MySQL, MongoDB, SQLite |
 | Visualization | Power BI, Matplotlib |
 | Deployment | Streamlit, FastAPI |
 | Version Control | Git, GitHub |
@@ -225,9 +239,9 @@ Python • Random Forest • Streamlit
 
 # 2026 Goals
 
-- Build enterprise AI applications
-- Master Agentic AI architecture
-- Deploy production-ready AI systems
+- Build scalable AI products
+- Master Agentic AI
+- Deploy production AI systems
 - Contribute to Open Source
 - Publish advanced AI projects
 - Secure an AI Engineering internship
@@ -238,22 +252,22 @@ Python • Random Forest • Streamlit
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sivaaselvam03-glitch&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
-# Philosophy
+# Quote
 
-> "Great AI systems are built by combining strong engineering, reliable data, and continuous learning."
+> "The best way to learn AI is to build systems that solve real problems."
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my profile.
+### Thanks for visiting my profile.
 
-Building intelligent systems, one project at a time.
+**Building. Learning. Improving.**
 
 </div>
