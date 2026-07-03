@@ -5,10 +5,24 @@
 ### AI Engineer • Machine Learning Engineer • Data Scientist
 
 <p>
-Building intelligent AI systems, production-ready ML applications, and next-generation LLM solutions.
+Building intelligent AI systems with Machine Learning, Large Language Models, Agentic AI and Production-Ready Applications.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Developer;Agentic+AI+Builder;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Developer;Agentic+AI+Developer;Building+Production+AI+Applications" />
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -16,121 +30,62 @@ Building intelligent AI systems, production-ready ML applications, and next-gene
 
 # About Me
 
-I am a B.Tech Information Technology student passionate about Artificial Intelligence, Machine Learning, Data Science, and Large Language Models.
+I am an Information Technology undergraduate with a strong interest in Artificial Intelligence, Machine Learning, Data Science and Large Language Models.
 
-My primary interest is designing intelligent systems that solve real-world problems using modern AI technologies.
+My goal is to build scalable AI applications capable of solving real-world problems through intelligent automation, advanced analytics and modern AI architectures.
 
-Currently focusing on production-grade AI applications, Agentic AI, Retrieval-Augmented Generation (RAG), and MLOps.
-
----
-
-# Current Focus
-
-- Agentic AI
-- Large Language Models (LLMs)
-- Advanced RAG Systems
-- LangGraph
-- MLOps
-- LLMOps
-- Deep Learning
-- AI System Design
+Currently learning and building production-ready systems focused on Agentic AI, Retrieval-Augmented Generation, LLMOps and MLOps.
 
 ---
 
-# Connect
+# Technical Expertise
 
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge">
-</a>
-
-</p>
-
----
-
-# Tech Stack
-
-## Languages
+### Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
-
 </p>
 
----
-
-## Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
+### Machine Learning
 
 - Scikit-Learn
+- TensorFlow
+- PyTorch
+- XGBoost
 - Pandas
 - NumPy
 - Matplotlib
 - OpenCV
-- XGBoost
 - Prophet
 
----
-
-## LLM & Generative AI
+### Large Language Models
 
 - LangChain
 - LangGraph
 - FAISS
 - ChromaDB
-- Ollama
 - DSPy
+- Ollama
 - Prompt Engineering
-- RAG
+- Retrieval-Augmented Generation
 - Agentic AI
 
----
-
-## Web Technologies
+### Backend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,flask"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react"/>
 </p>
 
----
-
-## Databases
+### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-
 </p>
 
----
-
-## Tools
+### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
-
 </p>
 
 Power BI • Jupyter Notebook • Google Colab
@@ -141,9 +96,15 @@ Power BI • Jupyter Notebook • Google Colab
 
 ## ML Data Observability System
 
-Production-ready system for monitoring data quality, anomaly detection, data drift detection, automated scheduling, and Power BI reporting.
+Enterprise-grade data quality monitoring platform featuring:
 
-**Tech**
+- Automated data quality validation
+- Data drift detection
+- Anomaly detection
+- Power BI dashboard
+- Scheduled monitoring pipeline
+
+**Technology**
 
 Python • MySQL • Isolation Forest • Prophet • Power BI
 
@@ -151,9 +112,15 @@ Python • MySQL • Isolation Forest • Prophet • Power BI
 
 ## Advanced RAG System
 
-Enterprise Retrieval-Augmented Generation pipeline supporting document ingestion, semantic search, vector databases, citation generation, and LLM integration.
+Retrieval-Augmented Generation platform supporting:
 
-**Tech**
+- Multi-document ingestion
+- Semantic search
+- Vector database
+- Citation generation
+- LLM integration
+
+**Technology**
 
 Python • LangChain • FAISS • Sentence Transformers • Groq
 
@@ -161,9 +128,15 @@ Python • LangChain • FAISS • Sentence Transformers • Groq
 
 ## AI Resume Screening Platform
 
-Intelligent ATS platform capable of resume parsing, candidate ranking, skill extraction, AI evaluation, and recruiter insights.
+AI-powered recruitment assistant capable of:
 
-**Tech**
+- ATS resume scoring
+- Candidate ranking
+- Skill extraction
+- Resume parsing
+- AI-based evaluation
+
+**Technology**
 
 React • TypeScript • Claude API
 
@@ -171,21 +144,34 @@ React • TypeScript • Claude API
 
 ## Crop Recommendation System
 
-Machine Learning application recommending profitable crops based on environmental and soil parameters.
+Machine Learning application that recommends profitable crops based on soil and weather conditions.
 
-**Tech**
+**Technology**
 
 Python • Random Forest • Streamlit
 
 ---
 
-# GitHub Statistics
+# Current Learning
+
+- Agentic AI
+- Advanced Retrieval-Augmented Generation
+- Multi-Agent Systems
+- LLMOps
+- MLOps
+- Azure AI
+- Deep Learning
+- AI Infrastructure
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -215,49 +201,36 @@ Python • Random Forest • Streamlit
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7&row=1&no-frame=true"/>
 
 </p>
-
----
-
-# Learning Journey
-
-Currently exploring:
-
-- Agentic AI
-- Multi-Agent Systems
-- Retrieval-Augmented Generation
-- Advanced Prompt Engineering
-- LLMOps
-- Azure AI
-- Deep Learning
-- AI Infrastructure
 
 ---
 
 # Development Environment
 
 | Category | Technologies |
-|----------|--------------|
+|-----------|-------------|
+| Operating System | Windows |
 | IDE | VS Code, Jupyter Notebook |
-| Version Control | Git, GitHub |
-| AI Frameworks | LangChain, LangGraph, Scikit-Learn |
-| ML Libraries | TensorFlow, PyTorch |
+| AI Frameworks | LangChain, LangGraph |
+| Machine Learning | Scikit-Learn, TensorFlow, PyTorch |
+| Databases | MySQL, MongoDB, SQLite |
 | Visualization | Power BI, Matplotlib |
-| Databases | MySQL, SQLite, MongoDB |
 | Deployment | Streamlit, FastAPI |
+| Version Control | Git, GitHub |
+| API Testing | Postman |
 
 ---
 
 # 2026 Goals
 
-- Build production-grade AI applications
+- Build enterprise AI applications
 - Master Agentic AI architecture
+- Deploy production-ready AI systems
 - Contribute to Open Source
 - Publish advanced AI projects
 - Secure an AI Engineering internship
-- Learn cloud-native AI deployment
 
 ---
 
@@ -265,24 +238,22 @@ Currently exploring:
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
-# Quote
+# Philosophy
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+> "Great AI systems are built by combining strong engineering, reliable data, and continuous learning."
 
 ---
 
 <div align="center">
 
-### Building AI systems that transform ideas into intelligent solutions.
+### Thank you for visiting my profile.
+
+Building intelligent systems, one project at a time.
 
 </div>
